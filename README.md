@@ -1,2 +1,1 @@
-# techshop
-L2T17 Shopper Site
+# Basic Online Shop Layout for Cameras & Related Tech
