@@ -4,11 +4,9 @@ This website uses carousel to display cameras and related products.
 
 ## Description
 
-The management program can be used by a bookstore clerk. The program allows the clerk to:
-* add new books to the database
-* update book information
-* delete books from the database
-* search the database to find a specific book.
+The website have 1 page with carousel product display and lastest product section and footer.
+
+The main idea of the project is to show the carousel and product display.
 
 ## Table of Content
 1. Copying Files
@@ -19,8 +17,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 
 Go to the directory or folder where you want to install the project and enter the following command in the command line:
 ```
->git clone https://github.com/riaandeventer/personal_cv
-```
+>git clone https://github.com/riaandeventer/tech_shop
 If you are asked for a login then it should be because you might have made a typing error with the link.
 
 ## 2. Executing Website
